@@ -1,7 +1,7 @@
 Let's break this project down into actionable steps to ensure we execute it with precision and Swiss-quality excellence.
 
 ### 1. **Define Your Project Scope and Metrics**
-   **Goal:** Analyze racetrack attendance data over the lifetime of the sport.
+   **Goal:** Analyze racetrack attendance data over the lifetime of three sports.
 
    **Data Needed:**
    - Historical attendance data for various racetracks.
